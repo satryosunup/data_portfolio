@@ -6,7 +6,7 @@ I am an aspiring analyst passionate about dissecting complex datasets to derive 
 
 ## Certifications & Trainings
 - [Full Stack Data Analytics - RevoU](https://certificates.revou.co/satryo-sunu-prabowo-certificate-achievements-facfsda23.pdf)
-- Other Certifications
+- To be uploaded.
 
 
 ## Projects
@@ -14,11 +14,14 @@ I am an aspiring analyst passionate about dissecting complex datasets to derive 
 **TokoBli Twin Date Campaign Analysis**  
 As a Data Analyst at TokoBli, I assessed recent flash sale campaigns, analyzing metrics like budget, transactions, and revenue to optimize strategy. Recommendations were provided to enhance future campaigns and boost customer satisfaction.
 
+**The-Look E-Commerce Inventory & Retention Optimization**
+Analysis of The-Look E-commerce inventory growth and customer retention cohort of the year 2022. Utilized SQL to extract and manipulate the data for analysis and created business recommendations to optimize the product inventory and retention plan.
+
 **RevoBank’s Customer Segment Analysis**  
 In collaboration with RevoBank's Performance Management team, our data analysis focuses on leveraging three years of customer sales data to boost credit card usage. Through segmentation based on spending behavior, value level, and demographics, we aim to develop targeted marketing campaigns. This strategy aims for a 20% increase in credit card usage and a 10% improvement in customer engagement metrics within six months.
 
 **RevoBank’s Paylater Initiative and Propensity Modeling**  
-I was tasked to develop a machine learning model to predict users who are likely to use a paylater feature on RevoBank. The result of the model can predict 30% of the user base that likely to use a paylater feature.
+I was tasked to develop a machine learning model to predict users likely to use a paylater feature on RevoBank. The result of the model can predict 30% of the user base that is likely to use a paylater feature.
 
-**E-Commerce RFM Clustering**  
-My task was to increase a declining revenue of an e-commerce platform by 20%. By creating segments of user persona and tailoring a suitable marketing plan for prime segments, I managed to craft recommendations based on the loyal customer cluster.
+**UK-based E-Commerce RFM Clustering**  
+My task was to increase the declining revenue of an e-commerce platform by 20%. By creating segments of user persona and tailoring a suitable marketing plan for prime segments, I crafted recommendations based on the loyal customer cluster.
