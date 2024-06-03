@@ -14,7 +14,7 @@ I am an aspiring analyst passionate about dissecting complex datasets to derive 
 **TokoBli Twin Date Campaign Analysis**  
 As a Data Analyst at TokoBli, I assessed recent flash sale campaigns, analyzing metrics like budget, transactions, and revenue to optimize strategy. Recommendations were provided to enhance future campaigns and boost customer satisfaction.
 
-**The-Look E-Commerce Inventory & Retention Optimization**
+**The-Look E-Commerce Inventory & Retention Optimization**  
 Analysis of The-Look E-commerce inventory growth and customer retention cohort of the year 2022. Utilized SQL to extract and manipulate the data for analysis and created business recommendations to optimize the product inventory and retention plan.
 
 **RevoBank’s Customer Segment Analysis**  
