@@ -3,13 +3,11 @@
 ## About Me
 I am an aspiring analyst passionate about dissecting complex datasets to derive actionable insights. With a proven ability to transform complex data into impactful marketing strategies, I excel in data analytics. My experience as a Client Solution Specialist, combined with advanced training from the Full-Stack Data Analytics Program, has consistently informed strategic decisions and led to a notable 20% revenue growth for my clients. I recently completed the intensive Full-Stack Data Analytics Program at RevoU to further refine my analytical toolkit, enhancing my expertise in Python, SQL, Spreadsheets, and Data Visualization such as Tableau and Power BI. This robust training, combined with my strong understanding of marketing dynamics, enables me to deliver significant value and drive organizational success through data-driven strategies.
 
----
 
 ## Certifications & Trainings
 - [Full Stack Data Analytics - RevoU](https://certificates.revou.co/satryo-sunu-prabowo-certificate-achievements-facfsda23.pdf)
 - Other Certifications
 
----
 
 ## Projects
 
