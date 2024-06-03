@@ -16,10 +16,10 @@ I am an aspiring analyst passionate about dissecting complex datasets for action
 As a Data Analyst at TokoBli, I assessed recent flash sale campaigns, analyzing metrics like budget, transactions, and revenue to optimize strategy. Recommendations were provided to enhance future campaigns and boost customer satisfaction.
 
 **The-Look E-Commerce Inventory & Retention Optimization**  
-Analysis of The-Look E-commerce inventory growth and customer retention cohort of the year 2022. Utilized SQL to extract and manipulate the data for analysis and created business recommendations to optimize the product inventory and retention plan.
+Analysis of The-Look E-commerce inventory growth and customer retention cohort of the year 2022. Utilized BigQuery SQL to extract and manipulate the data for analysis and created business recommendations to optimize the product inventory and retention plan.
 
 **RevoBank’s Customer Segment Analysis**  
-In collaboration with RevoBank's Performance Management team, our data analysis focuses on leveraging three years of customer sales data to boost credit card usage. Through segmentation based on spending behavior, value level, and demographics, we aim to develop targeted marketing campaigns. This strategy aims for a 20% increase in credit card usage and a 10% improvement in customer engagement metrics within six months.
+In collaboration with RevoBank's Performance Management team, our data analysis focuses on leveraging three years of customer sales data to boost credit card usage. Using Python, we aim to develop targeted marketing campaigns through segmentation based on spending behavior, value level, and demographics. This strategy aims for a 20% increase in credit card usage and a 10% improvement in customer engagement metrics within six months.
 
 **RevoBank’s Paylater Initiative and Propensity Modeling**  
 I was tasked to develop a machine learning model to predict users likely to use a paylater feature on RevoBank. The result of the model can predict 30% of the user base that is likely to use a paylater feature.
